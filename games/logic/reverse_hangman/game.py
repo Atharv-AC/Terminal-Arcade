@@ -137,5 +137,3 @@ def run():
         print("No matching word found.")
 
 
-if __name__ == "__main__":
-    run()
